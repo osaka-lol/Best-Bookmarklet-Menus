@@ -10,7 +10,7 @@ and are some of the best on github. None of these were made by me.
 
 # Credits: 
 
-Et exploits were made by etxnight
+The Et exploits were made by etxnight.
 
 Ratinchat's menu was made by ratinchat.
 
