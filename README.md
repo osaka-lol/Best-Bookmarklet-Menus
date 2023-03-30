@@ -8,7 +8,9 @@ and are some of the best on github. None of these were made by me.
 
 (Ratinchat's only has 20-ish bookmarklets)
 
-Credits: Et exploits were made by etxnight
+# Credits: 
+
+Et exploits were made by etxnight
 
 Ratinchat's menu was made by ratinchat.
 
